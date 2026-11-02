@@ -1,6 +1,7 @@
 # Gaming Café Session & Dynamic Pricing System
 DBMS Level 3 project: Jyeshta J (PES2UG24CS637) and Manapriya K (PES2UG24CS677), Section K
 
+
 Next.js 14 + MySQL 8 (relational core) + MongoDB (activity log).
 
 ## Setup
